@@ -1,5 +1,0 @@
-SELECT * FROM TAB;
-
-DESC PRODUCT;
-
-SELECT * FROM product;
